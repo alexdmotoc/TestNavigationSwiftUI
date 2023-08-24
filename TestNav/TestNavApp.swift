@@ -11,7 +11,7 @@ import SwiftUI
 struct TestNavApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ScreenA()
         }
     }
 }
